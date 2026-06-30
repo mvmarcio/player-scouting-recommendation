@@ -1,14 +1,14 @@
 # Data Manipulation & Analysis
-pandas==2.2.2
-numpy==1.26.4
+pandas
+numpy
 
-# Machine Learning & Vector Math (Scouting Score)
-scikit-learn==1.4.2
+# Machine Learning & Vector Math (Deixado flexível para seu Python moderno)
+scikit-learn
 
 # API Requests & Environment Management
-requests==2.31.0
-python-dotenv==1.0.1
+requests
+python-dotenv
 
 # Web Application UI (Wyscout-style Interface)
-streamlit==1.35.0
-plotly==5.22.0
+streamlit
+plotly
