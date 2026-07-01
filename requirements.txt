@@ -1,14 +1,4 @@
-# Data Manipulation & Analysis
-pandas
-numpy
-
-# Machine Learning & Vector Math (Deixado flexível para seu Python moderno)
-scikit-learn
-
-# API Requests & Environment Management
-requests
-python-dotenv
-
-# Web Application UI (Wyscout-style Interface)
-streamlit
-plotly
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
